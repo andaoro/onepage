@@ -23,7 +23,7 @@ function App() {
       <div className="flex flex-col items-center justify-center lg:mx-32 ">
         {
           Sagas.map((saga, index) => (
-            <div key={saga.id} className="flex flex-col h-full w-full bg-gray-200 rounded items-center border-b-4 border-sky-900 my-4 hover:bg-gray-300">
+            <div key={saga.id} className="flex flex-col h-full w-full bg-gray-100 rounded items-center border-b-4 border-sky-900 my-4">
               <img src={saga.image} className='w-full lg:h-96 object-cover rounded-t mb-2 border-b-2 border-black opacity-80 '/>
               <div className={'w-full mx-12 '}>
                 <div className="flex flex-row w-full justify-between py-6 cursor-pointer"
@@ -42,9 +42,9 @@ function App() {
                         {
                           arco.capitulos.map((capitulo) => (
                             <ul key={capitulo.id} className='my-2 lg:mx-12'>
-                              <li className={`font-bold mr-12 ${capitulo.relleno ? 'line-through text-red-400 ' : ''}`}>
+                              <li className={`font-bold mr-12 ${capitulo.relleno ? 'line-through text-red-600 ' : ''}`}>
                                 {capitulo.capitulo}.
-                                <span className={`text-gray-900/70 font-normal ${capitulo.relleno ? 'line-throug' : ''}`}>{capitulo.nombre}</span>
+                                <span className={`text-gray-900/90 font-normal ${capitulo.relleno ? 'line-throug' : ''}`}>{capitulo.nombre}</span>
                                 <span>{capitulo.relleno ? ' Relleno' : ''}</span></li>
                             </ul>
                           ))

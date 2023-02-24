@@ -38,7 +38,7 @@ function App() {
                   {
                     saga.arcos.map((arco) => (
                       <div key={arco.id} className={'my-4 border-b-2 border-sky-600/20'}>
-                        <span className="text-black/90 italic font-semibold">{arco.nombre}</span>
+                        <span className="text-black/90 italic font-semibold lg:text-xl">{arco.nombre}</span>
                         {
                           arco.capitulos.map((capitulo) => (
                             <ul key={capitulo.id} className='my-2 lg:mx-12'>

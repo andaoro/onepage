@@ -1,5 +1,4 @@
 import React from 'react'
-import './Nabvar.css'
 
 export const Navbar = () => {
     const imagesArray = [

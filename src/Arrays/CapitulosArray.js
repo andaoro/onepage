@@ -940,7 +940,24 @@ export const Sagas = [
                 nombre: 'Isla Cabra',
                 relleno: false,
                 capitulos: [
-
+                    {
+                        id: Math.random(),
+                        capitulo: 136,
+                        nombre: "Zenny vive en la isla de la cabra y ¡hay un barco pirata en su montaña!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 137,
+                        nombre: "¿Qué les parece el trato? ¡La ambición del prestamista Zenny!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 138,
+                        nombre: "¡Donde yace el tesoro de la isla! ¡A la carga, piratas de Zenny!",
+                        relleno: true
+                    },
                 ]
             },
             {
@@ -948,7 +965,36 @@ export const Sagas = [
                 nombre: 'Niebla Arcoíris',
                 relleno: false,
                 capitulos: [
-
+                    {
+                        id: Math.random(),
+                        capitulo: 139,
+                        nombre: "¡La leyenda de la Niebla Arco Iris! El viejo Henzo de Isla Ruluka",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 140,
+                        nombre: "¡Habitantes de Nunca Jamás! ¡La banda pirata Pumpkin!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 141,
+                        nombre: "¡Anhelo por volver a casa! ¡El ineludible cementerio pirata!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 142,
+                        nombre: "¡Lucha desesperada! El plan de Whetton y la torre Arcoiris",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 143,
+                        nombre: "¡Y entonces comenzó la leyenda! Rumbo al final del Arcoiris",
+                        relleno: true
+                    },
                 ]
             },
             {
@@ -956,7 +1002,60 @@ export const Sagas = [
                 nombre: 'Jaya',
                 relleno: false,
                 capitulos: [
-
+                    {
+                        id: Math.random(),
+                        capitulo: 144,
+                        nombre: "¡Log adquirido! ¡El rey de salvamento Masira!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 145,
+                        nombre: "¡Aparecen los monstruos! No toques a los piratas de Barbablanca",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 146,
+                        nombre: "¡No creas en sueños! ¡Mocktown, la Ciudad del Ridículo!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 147,
+                        nombre: "La cumbre de los piratas! El hombre que habla de sueños y el Rey de la Exploración Submarina",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 148,
+                        nombre: '¡La familia legendaria! "Mentiroso Norland"',
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 149,
+                        nombre: "¡Rumbo a las nubes! ¡Encontrar un Southbird!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 150,
+                        nombre: "¿¡Los sueños no se cumplen!? Bellamy vs. la Alianza Saruyama",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 151,
+                        nombre: "¡El hombre de los 100 millones! La mayor autoridad del mundo y el pirata Barbanegra",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 152,
+                        nombre: "¡Navegando hacia el cielo! Surcar el Knock-Up Stream",
+                        relleno: false
+                    },
                 ]
             },
             {
@@ -964,7 +1063,264 @@ export const Sagas = [
                 nombre: 'Skypiea',
                 relleno: false,
                 capitulos: [
-
+                    {
+                        id: Math.random(),
+                        capitulo: 153,
+                        nombre: "¡Éste es el mar del cielo! El Caballero del Cielo y la Puerta del Paraíso",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 154,
+                        nombre: "¡La Tierra de Dios, Skypiea! ¡Los ángeles de la playa de las nubes!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 155,
+                        nombre: "¡La prohibida tierra sagrada! ¡La isla donde reside Dios y el Juicio de los Cielos!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 156,
+                        nombre: "¿¡Ya somos criminales!? Los encargados de la ley en Skypiea",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 157,
+                        nombre: "¿Podemos escapar!? ¡Las pruebas de Dios están en marcha!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 158,
+                        nombre: "¡La trampa de Lovely Street! El todopoderoso God Enel",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 159,
+                        nombre: "¡Adelante, Pequeño Cuervo! Al altar del sacrificio",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 160,
+                        nombre: "¡Probabilidad de supervivencia 10%! ¡El Sacerdote Satori, con el poder del Mantra!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 161,
+                        nombre: 'El peligro de la "Prueba de las Esferas"! Lucha a muerte en el Bosque Maya',
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 162,
+                        nombre: "¡Chopper está en peligro! Dios original vs. Shura el Sacerdote",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 163,
+                        nombre: "¡Siempre misteriosa! Prueba de los Hilos y ¿¡Prueba de Amor!?",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 164,
+                        nombre: "¡Encendamos el fuego de Shandora! El guerrero Wiper",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 165,
+                        nombre: "¡La tierra flotante del Oro, Jaya! ¡Al santuario de Dios!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 166,
+                        nombre: '¡Víspera del Festival de Oro! ¡Afecto por el "Verse"!',
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 167,
+                        nombre: "¡¡Aparece God Enel!! Aubade para los superviventes",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 168,
+                        nombre: "¡La anaconda de puros colmillos! Comienza el Survival Game",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 169,
+                        nombre: '¡El Reject suicida! La determinación de Wiper el "Demonio de la Guerra"',
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 170,
+                        nombre: "¡Feroz batalla aérea! El pirata Zoro vs. el guerrero Braham",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 171,
+                        nombre: "¡¡Aúlla el Burn Bazooka!! Luffy vs. Wiper el Demonio de la Guerra",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 172,
+                        nombre: "¡La Prueba del Pantano! ¡¡Chopper vs. Gedatsu el Sacerdote!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 173,
+                        nombre: "¡La habilidad invencible! Se revela la auténtica naturaleza de Enel",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 174,
+                        nombre: "¡La ciudad desaparecida! ¡¡Las magníficas ruinas de Shandora!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 175,
+                        nombre: "¡¡Probabilidad de supervivencia 0%!! Chopper vs. el Sacerdote Aum",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 176,
+                        nombre: "¡¡Escalar el Giant Jack!! Lucha desesperada en las altas ruinas",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 177,
+                        nombre: "¡La última prueba de la Prueba del Hierro! ¡¡Deathmatch en las espinas blancas!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 178,
+                        nombre: "¡Fluir cortante! ¡¡Zoro vs. el Sacerdote Aum!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 179,
+                        nombre: "¡Las altas ruinas que se derrumban! ¡¡Quintet para el Finale!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 180,
+                        nombre: "¡Confrontación en las ruinas antiguas! ¡¡El objetivo del Dios Enel!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 181,
+                        nombre: "Ambición por el Fairy Verse ¡¡El arca Maxim!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 182,
+                        nombre: "¡Al fin se enfrentan! ¡¡El pirata Luffy vs. God Enel!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 183,
+                        nombre: "¡Maxim emerge! ¡¡Que de comienzo la Despiea!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 184,
+                        nombre: "¡Caída de Luffy! ¡El juicio de Dios y el deseo de Nami!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 185,
+                        nombre: "¡Los duo que han despertado! ¡¡El frente del amor ardiente al rescate!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 186,
+                        nombre: "El Capriccio de la desesperación ¡¡La inminente desaparición de la isla del cielo!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 187,
+                        nombre: "¡Guiados por el repicar de la campana!! Un cuento sobre un gran guerrero y un explorador",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 188,
+                        nombre: "¡Liberados de la desgracia! ¡¡Las lágrimas que derramó el gran guerrero!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 189,
+                        nombre: "¡Amigos para siempre! ¡¡La campana del juramento que resuena a lo largo del mar!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 190,
+                        nombre: "¡La destrucción de la Isla del Ángel! ¡¡Miedo al descenso de Raigoh!!",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 191,
+                        nombre: "¡Derribar el Giant Jack! Última esperanza de huida",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 192,
+                        nombre: "¡Milagro en el reino de Dios! El Love Song que oyeron los ángeles",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 193,
+                        nombre: "¡El final de la lucha! Fantasia que se repite con orgullo a lo lejos",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 194,
+                        nombre: "¡Estuve aquí! El tejido de los Poneglyphs",
+                        relleno: false
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 195,
+                        nombre: "¡¡Al fin el mar azul!! Un final tejido de sentimientos",
+                        relleno: false
+                    },
                 ]
             },
             {
@@ -972,7 +1328,73 @@ export const Sagas = [
                 nombre: 'la Fortaleza Naval G-8',
                 relleno: false,
                 capitulos: [
+                    {
+                        id: Math.random(),
+                        capitulo: 196,
+                        nombre: "¡Se declara el estado de emergencia! ¡La notoria infiltración del infame barco pirata!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 197,
+                        nombre: "¡El cocinero Sanji! Demostrando su orgullo en el comedor de la Marina",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 198,
+                        nombre: "¡La encarcelación de Zoro y la operación de emergencia de Chopper!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 199,
+                        nombre: "¡El pelóton de busqueda de los Marinos se acerca¡Otro de la tripulación es capturado!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 200,
+                        nombre: "¡La crucial decisión de Luffy y Sanji! ¡Gran maniobra de rescate!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 201,
+                        nombre: "¡La participación de la unidad especial de sangre caliente! ¡Batalla en el puente!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 202,
+                        nombre: "¡Abriéndose paso a través de las líneas enemigas! El rescate del Going Merry",
+                        relleno: true
+                    },
 
+                    {
+                        id: Math.random(),
+                        capitulo: 203,
+                        nombre: "¡La desaparición del barco pirata! 2º round del asalto a la fortaleza",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 204,
+                        nombre: "¡El plan para recuperar el oro y el plan para recuperar el Waver!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 205,
+                        nombre: "¡Atraparlos a todos en una red! ¡El astuto plan secreto de Jonathan!",
+                        relleno: true
+                    },
+                    {
+                        id: Math.random(),
+                        capitulo: 206,
+                        nombre: "¡Adiós, cuartel de la marina! La batalla final por la libertadp",
+                        relleno: true
+                    },
                 ]
             },
         ],
